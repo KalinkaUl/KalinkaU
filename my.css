@@ -210,12 +210,22 @@ main {
     display: block;
     text-align: center;
 }
+
+
 .navbar a:hover{
     background-color: rgb(24, 41, 41);
 }
 .navbar li{
     float: left;
 }
+
+h2 { 
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+  }
+
 
 
 
