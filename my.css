@@ -54,17 +54,17 @@ h2 {
 
 
 :root {
-  --var-body-bg: #fff;
-  --var-body-fc: #333;
-  --var-header-bg: #eee;
+  --var-body-bg: #ffffff;
+  --var-body-fc:#002019;
+  --var-header-bg: #006b57;
 }
 
 @media (prefers-color-scheme: dark) {
 
 :root { 
-  --var-body-bg: #333;
-  --var-body-fc: #fff;
-  --var-header-bg: #666;
+  --var-body-bg: #002019;
+  --var-body-fc: #ffffff;
+  --var-header-bg: #7cf8d6;
 }
 }
 
